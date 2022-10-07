@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/cod-r/bdw-workshop.git
+    repoURL: https://github.com//bdw-workshop.git
     path: argocd
     directory:
       recurse: true
@@ -18,5 +18,3 @@ spec:
       prune: true 
       selfHeal: true
       allowEmpty: false
-
-
